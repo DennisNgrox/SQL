@@ -42,7 +42,7 @@ echo password=$SENHA >> ~/.my.cnf
 mysql -u root -e "ALTER USER USER() IDENTIFIED BY 'SeNhA#20';" --connect-expired-password
 
 # Definindo em uma varíavel a nova senha
-SENHA='"Julia#2021"'
+SENHA='"SeNha#20"'
 
 # Substituindo a antiga senha no arquivo de My.cnf
 sed -i '/password/d' ~/.my.cnf
