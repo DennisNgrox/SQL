@@ -1,4 +1,4 @@
-# BancoDeDados
+# SQL
 
 Em construção
 
