@@ -6,4 +6,9 @@
    
 </div>
 
+ <h1></h1>
+ 
+[Observação]
 
+    - Repositório criado para guardar scripts e consultas SQL
+    - Em desenvolvimento
